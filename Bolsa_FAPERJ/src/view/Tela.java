@@ -102,7 +102,9 @@ public class Tela extends JFrame {
 		panel_2.setBounds(0, 0, 1280, 740);
 		getContentPane().add(panel_2);
 		
-		//Tela de fase
+		
+		
+		//================ Tela de fase
 //		  JPanel panel = new JPanel();
 //        panel.setBounds(10, 10, 130, 130);
 //        getContentPane().add(panel);
